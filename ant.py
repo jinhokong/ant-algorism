@@ -22,3 +22,5 @@ while(a>=0):
         result=[]
     print(list)
     list=[1]
+else:
+    print('\n')
